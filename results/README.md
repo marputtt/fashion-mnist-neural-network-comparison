@@ -11,7 +11,6 @@ This folder contains portfolio-safe visual outputs generated from the notebook C
 ## Key Files
 
 - `figures/final_model_ranking.png`
-- `figures/accuracy_vs_model_complexity.png`
 - `figures/learning_curves.png`
 - `figures/per_class_accuracy.png`
 - `snapshots/final_ranking_snapshot.png`

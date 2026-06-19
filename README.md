@@ -54,10 +54,6 @@ The project demonstrates a full experimental machine-learning workflow:
 
 ![Final ranking snapshot](results/snapshots/final_ranking_snapshot.png)
 
-### Accuracy vs model complexity
-
-![Accuracy vs model complexity](results/figures/accuracy_vs_model_complexity.png)
-
 ### Per-class performance
 
 ![Per-class accuracy](results/figures/per_class_accuracy.png)
