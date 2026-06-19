@@ -1,0 +1,13 @@
+# macOS / local noise
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Do not publish source assignment documents or internal PRD
+CSE3CI - Assignment-2.docx
+PRD_Computational_Intelligence_AI_Agent_v2.1_Skeptical_Professor.md
+
+# Local report deliverables are not published in the portfolio repo
+report/
+*.pdf
