@@ -38,11 +38,29 @@ The project demonstrates a full experimental machine-learning workflow:
 │   ├── per_class_performance.csv
 │   ├── ablation_summary.csv
 │   └── misclassification_summary.csv
-└── report/
-    ├── report_draft.docx
+└── results/
     ├── architecture_diagrams/
-    └── figures/
+    ├── figures/
+    └── snapshots/
 ```
+
+## Visual Results
+
+### Final model ranking
+
+![Final model ranking](results/figures/final_model_ranking.png)
+
+### Ranking snapshot
+
+![Final ranking snapshot](results/snapshots/final_ranking_snapshot.png)
+
+### Accuracy vs model complexity
+
+![Accuracy vs model complexity](results/figures/accuracy_vs_model_complexity.png)
+
+### Per-class performance
+
+![Per-class accuracy](results/figures/per_class_accuracy.png)
 
 ## Final Ranking
 
